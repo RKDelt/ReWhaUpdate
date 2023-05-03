@@ -1,0 +1,12 @@
+{
+ "version":"9.64",
+ "title":"Update Disponible!",
+ "description":"RewhasApp Oficial V9.65
+
+Base: 2.23 1.76
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+ Actualización AntiBaneo disponible ",
+"download":"https://youtu.be/rY2otd2NacA"
+}
