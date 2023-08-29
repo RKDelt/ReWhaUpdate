@@ -2,7 +2,7 @@
   "axel": [
     {
  "version":"9.62",
- "title":"Update Disponible!",
+ "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
 Base: 2.23 1.76
