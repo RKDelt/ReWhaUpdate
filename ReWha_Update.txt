@@ -1,4 +1,6 @@
 {
+  "axel": [
+    {
  "version":"9.62",
  "title":"Update Disponible!",
  "description":"RewhasApp Oficial V9.65
@@ -11,4 +13,6 @@ Nuevo Systema de Actualización
 
  Actualización AntiBaneo disponible ",
 "download":"https://youtu.be/rY2otd2NacA"
+}
+  ]
 }
